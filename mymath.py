@@ -4,7 +4,7 @@
 import math
 from functools import reduce
 
-
+# Adding new comment to then push and show revision control.
 
 class MyMath:
     "Class with math functions"
