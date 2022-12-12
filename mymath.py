@@ -6,6 +6,7 @@ from functools import reduce
 
 # Adding new comment to then push and show revision control.
 # Adding to second branch
+# fsf
 
 class MyMath:
     "Class with math functions"
